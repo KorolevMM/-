@@ -3,4 +3,4 @@
 1. Исследовательский анализ данных
    В этом проекте проводится аналитика рынка недвижимости, в ходе которой мы узнаем, что влияет на конечную стоимость квартиры.
    
-   ! [Image alt](http://github.com/KorolevMM/my/blob/main/corr%20heatmap%20IAD.bmp)
+   ! [Image alt](http://github.com/KorolevMM/my/blob/main/corr%20heatmap%20IAD.png)
