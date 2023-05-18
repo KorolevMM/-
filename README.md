@@ -7,3 +7,11 @@
    <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/003a2ce9-a23f-406c-bf80-e185c6717597">
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Exploratory-analysis-of-apartment-sales)
+   
+2. Прогнозирование временных рядов.
+
+   Компания предлагающая сервисы агрегатора такси собрала исторические данные о заказах такси в аэропортах. В этом проекте, для привлечения большего числа водителей в период пиковой нагрузки, с помощью моделей машинного обучения, прогнозируется количество заказов такси на следующий час.
+   
+   <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/822e0285-401b-4368-a4a9-85877c36af14">
+   
+   Ознакомиться подробнее: (https://github.com/KorolevMM/Time-Series-Forecast)
