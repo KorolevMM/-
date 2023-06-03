@@ -8,6 +8,8 @@
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Exploratory-analysis-of-apartment-sales)
    
+   Либо в Colab: (https://drive.google.com/file/d/1LXsHGunQDmumozdh2Lb8gTzwJNpxAxas/view?usp=sharing)
+   
 **2. Машинное обучение в бизнесе**
    
    По данным компании, занимающейся добычей полезных ископаемых, необходимо построить модель для определения региона, где добыча принесёт наибольшую прибыль. В этом проекте проводится анализ возможной прибыли и рисков.
@@ -16,6 +18,8 @@
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/ML-in-business)   
    
+   Либо в Colab: (https://drive.google.com/file/d/1YfH5xXb1G11qwJtaBhs9Vv4xAZnovHzS/view?usp=sharing)
+   
 **3. Прогнозирование временных рядов**
 
    Компания, предлагающая сервисы агрегатора такси, собрала исторические данные о заказах такси в аэропортах. В этом проекте для привлечения большего числа водителей в период пиковой нагрузки, с помощью моделей машинного обучения, прогнозируется количество заказов такси на следующий час.
@@ -23,3 +27,5 @@
    <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/822e0285-401b-4368-a4a9-85877c36af14">
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Time-Series-Forecast)
+   
+   Либо в Colab: (https://drive.google.com/file/d/1398YrnP37HllcV6blrN0oDtFeq3M8-CO/view?usp=sharing)
