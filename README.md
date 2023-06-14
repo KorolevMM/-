@@ -29,3 +29,13 @@
    Ознакомиться подробнее: (https://github.com/KorolevMM/Time-Series-Forecast)
    
    Либо в Colab: (https://drive.google.com/file/d/1398YrnP37HllcV6blrN0oDtFeq3M8-CO/view?usp=sharing)
+
+   **4. Улучшение процесса обогащения золота**
+
+   Задача этого проекта: подготовить прототип модели машинного обучения для [«Цифры»](http://zyfra.com/). 
+Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды.
+   
+   <img width="500" alt="image" src="https://github.com/KorolevMM/Gold-mining/assets/132676205/4b92ecc8-1bf5-49df-b02b-2c499a56eb80">
+   
+   Ознакомиться подробнее: (https://github.com/KorolevMM/Gold-mining)
+   Либо в Colab: (https://drive.google.com/file/d/1BaRqT2FgswOYWkDYcyK708nTAbc5nUF5/view?usp=sharing)
