@@ -16,7 +16,7 @@
    
    <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/24266995-f7f4-4c2a-81bd-e60fd3e3ca42">
    
-   Ознакомиться подробнее: (https://github.com/KorolevMM/ML-in-business)   
+   Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/ML%20in%20business)   
    
    Либо в Colab: (https://drive.google.com/file/d/1YfH5xXb1G11qwJtaBhs9Vv4xAZnovHzS/view?usp=sharing)
    
