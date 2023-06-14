@@ -38,4 +38,5 @@
    <img width="500" alt="image" src="https://github.com/KorolevMM/Gold-mining/assets/132676205/4b92ecc8-1bf5-49df-b02b-2c499a56eb80">
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Gold-mining)
+   
    Либо в Colab: (https://drive.google.com/file/d/1BaRqT2FgswOYWkDYcyK708nTAbc5nUF5/view?usp=sharing)
