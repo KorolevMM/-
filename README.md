@@ -6,7 +6,7 @@
    
    <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/003a2ce9-a23f-406c-bf80-e185c6717597">
    
-   Ознакомиться подробнее: (https://github.com/KorolevMM/Exploratory-analysis-of-apartment-sales)
+   Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Apartment%20sales)
    
    Либо в Colab: (https://drive.google.com/file/d/1LXsHGunQDmumozdh2Lb8gTzwJNpxAxas/view?usp=sharing)
    
