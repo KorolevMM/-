@@ -26,7 +26,7 @@
    
    <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/822e0285-401b-4368-a4a9-85877c36af14">
    
-   Ознакомиться подробнее: (https://github.com/KorolevMM/Time-Series-Forecast)
+   Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Time%20series)
    
    Либо в Colab: (https://drive.google.com/file/d/1398YrnP37HllcV6blrN0oDtFeq3M8-CO/view?usp=sharing)
 
