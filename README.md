@@ -35,7 +35,7 @@
    Задача этого проекта: подготовить прототип модели машинного обучения для [«Цифры»](http://zyfra.com/). 
 Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды.
    
-   <img width="500" alt="image" src="https://github.com/KorolevMM/Gold-mining/assets/132676205/4b92ecc8-1bf5-49df-b02b-2c499a56eb80">
+   <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/222a11d0-90a2-4aab-846b-b71938cfb334">
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Gold%20mining)
    
