@@ -40,3 +40,10 @@
    Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Gold%20mining)
    
    Либо в Colab: (https://drive.google.com/file/d/1BaRqT2FgswOYWkDYcyK708nTAbc5nUF5/view?usp=sharing)
+
+   **5. Прогнозирование температуры стали**
+
+   Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
+   Задача этого проекта: построить модель, которая предскажет температуру стали.
+
+   <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/6c89a03c-e304-4d04-9556-bd53f1c19b08">
