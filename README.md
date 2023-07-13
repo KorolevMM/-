@@ -24,7 +24,7 @@
 
    Компания, предлагающая сервисы агрегатора такси, собрала исторические данные о заказах такси в аэропортах. В этом проекте для привлечения большего числа водителей в период пиковой нагрузки, с помощью моделей машинного обучения, прогнозируется количество заказов такси на следующий час.
    
-   <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/822e0285-401b-4368-a4a9-85877c36af14">
+   <img width="600" height="400" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/822e0285-401b-4368-a4a9-85877c36af14">
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Time%20series)
    
@@ -35,7 +35,7 @@
    Задача этого проекта: подготовить прототип модели машинного обучения для [«Цифры»](http://zyfra.com/). 
 Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды.
    
-   <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/222a11d0-90a2-4aab-846b-b71938cfb334">
+   <img width="800" height="400" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/222a11d0-90a2-4aab-846b-b71938cfb334">
    
    Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Gold%20mining)
    
@@ -46,4 +46,8 @@
    Чтобы оптимизировать производственные расходы, металлургический комбинат решил уменьшить потребление электроэнергии на этапе обработки стали. 
    Задача этого проекта: построить модель, которая предскажет температуру стали.
 
-   <img width="500" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/6c89a03c-e304-4d04-9556-bd53f1c19b08">
+   <img width="800" height="300" alt="image" src="https://github.com/KorolevMM/Portfolio/assets/132676205/6c89a03c-e304-4d04-9556-bd53f1c19b08">
+
+   Ознакомиться подробнее: (https://github.com/KorolevMM/Portfolio/tree/main/Steel%20plant)
+
+   Либо в Colab: (https://drive.google.com/file/d/16hfxntQwFcpuqYUEZR041hh2GFpdCOfU/view?usp=drive_link)
